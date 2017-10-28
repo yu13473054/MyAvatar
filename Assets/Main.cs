@@ -23,7 +23,9 @@ public class Main : MonoBehaviour {
         _avatarCtrl.Equip(_headIndex,_bodyIndex, _handIndex, _footIndex, _combine);
         _avatarCtrl.EquipWeapon(_weaponIndex);
         _avatarCtrl.PlayAnim(_animState);
+
 	}
+
 
 
     void Update () {

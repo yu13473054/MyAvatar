@@ -40,7 +40,7 @@ public class AvatarCtrl
 
     public void Equip(int headIndex, int bodyIndex, int handIndex, int footIndex, bool combine)
     {
-        string[] equipNames = { Main._heads[headIndex], Main._bodys[bodyIndex], Main._hands[handIndex], Main._foots[footIndex]};
+        string[] equipNames = { Main._heads[headIndex], Main._bodys[bodyIndex], Main._hands[handIndex], Main._foots[footIndex] };
         GameObject[] tempGO = new GameObject[equipNames.Length];
         SkinnedMeshRenderer[] meshes = new SkinnedMeshRenderer[equipNames.Length];
         for (int i = 0; i < equipNames.Length; i++)
@@ -96,12 +96,12 @@ public class AvatarCtrl
             }
         }
 
-                List<Vector2[]> oldUVs=null;
+        List<Vector2[]> oldUVs = null;
         Material newM = null;
         if (combine)
         {
             newM = new Material(Shader.Find("Mobile/Diffuse"));
-                        oldUVs = new List<Vector2[]>();
+            oldUVs = new List<Vector2[]>();
 
             List<Texture2D> texture2Ds = new List<Texture2D>();
             for (int i = 0; i < materials.Count; i++)
@@ -119,9 +119,11 @@ public class AvatarCtrl
                 uvb = new Vector2[uva.Length];
                 for (int j = 0; j < uva.Length; j++)
                 {
-                    uvb[j] = new Vector2(uva[j].x * uvs[i].width + uvs[i].x, uva[j].y * uvs[i].height + uvs[i].y);
+//                    uvb[j] = new Vector2(uva[j].x * uvs[i].width + uvs[i].x, uva[j].y * uvs[i].height + uvs[i].y);
+                    uvb[j].x = Mathf.Lerp(uvs[i].xMin, uvs[i].xMax, uva[j].x);
+                    uvb[j].y = Mathf.Lerp(uvs[i].yMin, uvs[i].yMax, uva[j].y);
                 }
-                                oldUVs.Add(uva);
+                oldUVs.Add(uva);
                 combineInstances[i].mesh.uv = uvb;
             }
         }
@@ -151,7 +153,7 @@ public class AvatarCtrl
 
     public void EquipWeapon(int weaponIndex)
     {
-        if (_weaponRoot==null)
+        if (_weaponRoot == null)
         {
             Transform[] transforms = _skel.GetComponentsInChildren<Transform>();
             foreach (Transform joint in transforms)
@@ -178,7 +180,7 @@ public class AvatarCtrl
 
     public void PlayAnim(int animState)
     {
-        if (animState==0)
+        if (animState == 0)
         {
             _anim.wrapMode = WrapMode.Loop;
             _anim.Play("breath");
