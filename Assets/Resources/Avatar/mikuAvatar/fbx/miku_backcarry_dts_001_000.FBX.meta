@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: b7919305dfe75e642a71c27ba40804cc
+timeCreated: 1496311652
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone_miku_dts_hips
+    100002: bone_miku_dts_L_01
+    100004: bone_miku_dts_L_02
+    100006: bone_miku_dts_L_03
+    100008: bone_miku_dts_L_04
+    100010: bone_miku_dts_L_05
+    100012: bone_miku_dts_L_06
+    100014: bone_miku_dts_L_07
+    100016: bone_miku_dts_R_01
+    100018: bone_miku_dts_R_02
+    100020: bone_miku_dts_R_03
+    100022: bone_miku_dts_R_04
+    100024: bone_miku_dts_R_05
+    100026: bone_miku_dts_R_06
+    100028: bone_miku_dts_R_07
+    100030: bone_miku_dts_wing
+    100032: //RootNode
+    100034: ts_wing
+    400000: bone_miku_dts_hips
+    400002: bone_miku_dts_L_01
+    400004: bone_miku_dts_L_02
+    400006: bone_miku_dts_L_03
+    400008: bone_miku_dts_L_04
+    400010: bone_miku_dts_L_05
+    400012: bone_miku_dts_L_06
+    400014: bone_miku_dts_L_07
+    400016: bone_miku_dts_R_01
+    400018: bone_miku_dts_R_02
+    400020: bone_miku_dts_R_03
+    400022: bone_miku_dts_R_04
+    400024: bone_miku_dts_R_05
+    400026: bone_miku_dts_R_06
+    400028: bone_miku_dts_R_07
+    400030: bone_miku_dts_wing
+    400032: //RootNode
+    400034: ts_wing
+    4300000: ts_wing
+    9500000: //RootNode
+    13700000: ts_wing
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

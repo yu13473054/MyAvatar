@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: b8badef87231ff342b015116007cac68
+timeCreated: 1496311731
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Head
+    100004: Hips
+    100006: Left Arm
+    100008: Left ForeArm
+    100010: Left Hand
+    100012: Left Shoulder
+    100014: //RootNode
+    100016: Neck
+    100018: Right Arm
+    100020: Right ForeArm
+    100022: Right Hand
+    100024: Right Shoulder
+    100026: Spine
+    100028: wlcf_suit_001_035
+    100030: Left Foot
+    100032: Left Leg
+    100034: Left UpLeg
+    100036: Right Foot
+    100038: Right Leg
+    100040: Right UpLeg
+    100042: wlcf_suit_035
+    100044: wlcf_shoe
+    100046: ch_leg001
+    400000: Chest
+    400002: Head
+    400004: Hips
+    400006: Left Arm
+    400008: Left ForeArm
+    400010: Left Hand
+    400012: Left Shoulder
+    400014: //RootNode
+    400016: Neck
+    400018: Right Arm
+    400020: Right ForeArm
+    400022: Right Hand
+    400024: Right Shoulder
+    400026: Spine
+    400028: wlcf_suit_001_035
+    400030: Left Foot
+    400032: Left Leg
+    400034: Left UpLeg
+    400036: Right Foot
+    400038: Right Leg
+    400040: Right UpLeg
+    400042: wlcf_suit_035
+    400044: wlcf_shoe
+    400046: ch_leg001
+    4300000: wlcf_suit_001_035
+    4300002: wlcf_suit_035
+    4300004: wlcf_shoe
+    4300006: ch_leg001
+    9500000: //RootNode
+    13700000: wlcf_suit_001_035
+    13700002: wlcf_suit_035
+    13700004: wlcf_shoe
+    13700006: ch_leg001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

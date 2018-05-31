@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: e0dc50bddb9cc564aac2bc1f28ea53eb
+timeCreated: 1511146170
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: blbl_body
+    100002: blbl_hair
+    100004: blbl_haircarry
+    100006: blbl_hand
+    100008: blbl_leg
+    100010: blbl_shoe
+    100012: blbl_suit
+    100014: bone_hair
+    100016: bone_hair01_01
+    100018: bone_hair01_02
+    100020: bone_hair01_03
+    100022: bone_hair02_01
+    100024: bone_hair02_02
+    100026: bone_hair02_03
+    100028: bone_hair03_01
+    100030: bone_hair03_02
+    100032: bone_hair03_03
+    100034: bone_hair_L_01
+    100036: bone_hair_L_02
+    100038: bone_hair_L_03
+    100040: bone_hair_L_04
+    100042: bone_hair_L_05
+    100044: bone_hair_R_01
+    100046: bone_hair_R_02
+    100048: bone_hair_R_03
+    100050: bone_hair_R_04
+    100052: bone_hair_R_05
+    100054: bone_qunzi_B_01
+    100056: bone_qunzi_B_02
+    100058: bone_qunzi_B_03
+    100060: bone_qunzi_F_01
+    100062: bone_qunzi_F_02
+    100064: bone_qunzi_F_03
+    100066: bone_qunzi_L_01
+    100068: bone_qunzi_L_02
+    100070: bone_qunzi_L_03
+    100072: bone_qunzi_R_01
+    100074: bone_qunzi_R_02
+    100076: bone_qunzi_R_03
+    100078: Chest
+    100080: Head
+    100082: Hips
+    100084: Left Arm
+    100086: Left Foot
+    100088: Left ForeArm
+    100090: Left Hand
+    100092: Left HandIndex1
+    100094: Left HandIndex2
+    100096: Left HandMiddle1
+    100098: Left HandMiddle2
+    100100: Left HandRing1
+    100102: Left HandRing2
+    100104: Left HandThumb1
+    100106: Left HandThumb2
+    100108: Left Leg
+    100110: Left Shoulder
+    100112: Left UpLeg
+    100114: //RootNode
+    100116: Neck
+    100118: Right Arm
+    100120: Right Foot
+    100122: Right ForeArm
+    100124: Right Hand
+    100126: Right HandIndex1
+    100128: Right HandIndex2
+    100130: Right HandMiddle1
+    100132: Right HandMiddle2
+    100134: Right HandRing1
+    100136: Right HandRing2
+    100138: Right HandThumb1
+    100140: Right HandThumb2
+    100142: Right Leg
+    100144: Right Shoulder
+    100146: Right UpLeg
+    100148: Spine
+    400000: blbl_body
+    400002: blbl_hair
+    400004: blbl_haircarry
+    400006: blbl_hand
+    400008: blbl_leg
+    400010: blbl_shoe
+    400012: blbl_suit
+    400014: bone_hair
+    400016: bone_hair01_01
+    400018: bone_hair01_02
+    400020: bone_hair01_03
+    400022: bone_hair02_01
+    400024: bone_hair02_02
+    400026: bone_hair02_03
+    400028: bone_hair03_01
+    400030: bone_hair03_02
+    400032: bone_hair03_03
+    400034: bone_hair_L_01
+    400036: bone_hair_L_02
+    400038: bone_hair_L_03
+    400040: bone_hair_L_04
+    400042: bone_hair_L_05
+    400044: bone_hair_R_01
+    400046: bone_hair_R_02
+    400048: bone_hair_R_03
+    400050: bone_hair_R_04
+    400052: bone_hair_R_05
+    400054: bone_qunzi_B_01
+    400056: bone_qunzi_B_02
+    400058: bone_qunzi_B_03
+    400060: bone_qunzi_F_01
+    400062: bone_qunzi_F_02
+    400064: bone_qunzi_F_03
+    400066: bone_qunzi_L_01
+    400068: bone_qunzi_L_02
+    400070: bone_qunzi_L_03
+    400072: bone_qunzi_R_01
+    400074: bone_qunzi_R_02
+    400076: bone_qunzi_R_03
+    400078: Chest
+    400080: Head
+    400082: Hips
+    400084: Left Arm
+    400086: Left Foot
+    400088: Left ForeArm
+    400090: Left Hand
+    400092: Left HandIndex1
+    400094: Left HandIndex2
+    400096: Left HandMiddle1
+    400098: Left HandMiddle2
+    400100: Left HandRing1
+    400102: Left HandRing2
+    400104: Left HandThumb1
+    400106: Left HandThumb2
+    400108: Left Leg
+    400110: Left Shoulder
+    400112: Left UpLeg
+    400114: //RootNode
+    400116: Neck
+    400118: Right Arm
+    400120: Right Foot
+    400122: Right ForeArm
+    400124: Right Hand
+    400126: Right HandIndex1
+    400128: Right HandIndex2
+    400130: Right HandMiddle1
+    400132: Right HandMiddle2
+    400134: Right HandRing1
+    400136: Right HandRing2
+    400138: Right HandThumb1
+    400140: Right HandThumb2
+    400142: Right Leg
+    400144: Right Shoulder
+    400146: Right UpLeg
+    400148: Spine
+    4300000: blbl_shoe
+    4300002: blbl_suit
+    4300004: blbl_body
+    4300006: blbl_hair
+    4300008: blbl_haircarry
+    4300010: blbl_leg
+    4300012: blbl_hand
+    9500000: //RootNode
+    13700000: blbl_body
+    13700002: blbl_hair
+    13700004: blbl_haircarry
+    13700006: blbl_hand
+    13700008: blbl_leg
+    13700010: blbl_shoe
+    13700012: blbl_suit
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

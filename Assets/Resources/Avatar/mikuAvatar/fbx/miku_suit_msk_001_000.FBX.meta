@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 88e862c2892f7c342a8d2b38aeb31770
+timeCreated: 1513685633
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bone_hair
+    100002: bone_hair_L2_01
+    100004: bone_hair_L2_02
+    100006: bone_hair_L2_03
+    100008: bone_hair_L2_04
+    100010: bone_hair_L2_05
+    100012: bone_hair_R2_01
+    100014: bone_hair_R2_02
+    100016: bone_hair_R2_03
+    100018: bone_hair_R2_04
+    100020: bone_hair_R2_05
+    100022: bone_hand01_L_01
+    100024: bone_hand01_L_02
+    100026: bone_hand01_L_03
+    100028: bone_hand01_R_01
+    100030: bone_hand01_R_02
+    100032: bone_hand01_R_03
+    100034: bone_qunzi_B_01
+    100036: bone_qunzi_B_02
+    100038: bone_qunzi_B_03
+    100040: bone_qunzi_F_01
+    100042: bone_qunzi_F_02
+    100044: bone_qunzi_F_03
+    100046: bone_qunzi_L_01
+    100048: bone_qunzi_L_02
+    100050: bone_qunzi_L_03
+    100052: bone_qunzi_R_01
+    100054: bone_qunzi_R_02
+    100056: bone_qunzi_R_03
+    100058: Chest
+    100060: Head
+    100062: Hips
+    100064: Left Arm
+    100066: Left Foot
+    100068: Left ForeArm
+    100070: Left Hand
+    100072: Left HandIndex1
+    100074: Left HandIndex2
+    100076: Left HandMiddle1
+    100078: Left HandMiddle2
+    100080: Left HandRing1
+    100082: Left HandRing2
+    100084: Left HandThumb1
+    100086: Left HandThumb2
+    100088: Left Leg
+    100090: Left Shoulder
+    100092: Left UpLeg
+    100094: miku_body
+    100096: miku_hand
+    100098: miku_leg
+    100100: //RootNode
+    100102: msk_hair
+    100104: msk_haircarry
+    100106: msk_shoe
+    100108: msk_suit
+    100110: Neck
+    100112: Right Arm
+    100114: Right Foot
+    100116: Right ForeArm
+    100118: Right Hand
+    100120: Right HandIndex1
+    100122: Right HandIndex2
+    100124: Right HandMiddle1
+    100126: Right HandMiddle2
+    100128: Right HandRing1
+    100130: Right HandRing2
+    100132: Right HandThumb1
+    100134: Right HandThumb2
+    100136: Right Leg
+    100138: Right Shoulder
+    100140: Right UpLeg
+    100142: Spine
+    400000: bone_hair
+    400002: bone_hair_L2_01
+    400004: bone_hair_L2_02
+    400006: bone_hair_L2_03
+    400008: bone_hair_L2_04
+    400010: bone_hair_L2_05
+    400012: bone_hair_R2_01
+    400014: bone_hair_R2_02
+    400016: bone_hair_R2_03
+    400018: bone_hair_R2_04
+    400020: bone_hair_R2_05
+    400022: bone_hand01_L_01
+    400024: bone_hand01_L_02
+    400026: bone_hand01_L_03
+    400028: bone_hand01_R_01
+    400030: bone_hand01_R_02
+    400032: bone_hand01_R_03
+    400034: bone_qunzi_B_01
+    400036: bone_qunzi_B_02
+    400038: bone_qunzi_B_03
+    400040: bone_qunzi_F_01
+    400042: bone_qunzi_F_02
+    400044: bone_qunzi_F_03
+    400046: bone_qunzi_L_01
+    400048: bone_qunzi_L_02
+    400050: bone_qunzi_L_03
+    400052: bone_qunzi_R_01
+    400054: bone_qunzi_R_02
+    400056: bone_qunzi_R_03
+    400058: Chest
+    400060: Head
+    400062: Hips
+    400064: Left Arm
+    400066: Left Foot
+    400068: Left ForeArm
+    400070: Left Hand
+    400072: Left HandIndex1
+    400074: Left HandIndex2
+    400076: Left HandMiddle1
+    400078: Left HandMiddle2
+    400080: Left HandRing1
+    400082: Left HandRing2
+    400084: Left HandThumb1
+    400086: Left HandThumb2
+    400088: Left Leg
+    400090: Left Shoulder
+    400092: Left UpLeg
+    400094: miku_body
+    400096: miku_hand
+    400098: miku_leg
+    400100: //RootNode
+    400102: msk_hair
+    400104: msk_haircarry
+    400106: msk_shoe
+    400108: msk_suit
+    400110: Neck
+    400112: Right Arm
+    400114: Right Foot
+    400116: Right ForeArm
+    400118: Right Hand
+    400120: Right HandIndex1
+    400122: Right HandIndex2
+    400124: Right HandMiddle1
+    400126: Right HandMiddle2
+    400128: Right HandRing1
+    400130: Right HandRing2
+    400132: Right HandThumb1
+    400134: Right HandThumb2
+    400136: Right Leg
+    400138: Right Shoulder
+    400140: Right UpLeg
+    400142: Spine
+    4300000: msk_hair
+    4300002: msk_shoe
+    4300004: msk_suit
+    4300006: miku_body
+    4300008: miku_leg
+    4300010: miku_hand
+    4300012: msk_haircarry
+    9500000: //RootNode
+    13700000: miku_body
+    13700002: miku_hand
+    13700004: miku_leg
+    13700006: msk_hair
+    13700008: msk_haircarry
+    13700010: msk_shoe
+    13700012: msk_suit
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

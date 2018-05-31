@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 267ecef3c3d0fd24eaba8563b96d4a83
+timeCreated: 1496643078
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone_hand01_L_01
+    100002: bone_hand01_L_02
+    100004: bone_hand01_L_03
+    100006: bone_hand01_L_04
+    100008: bone_hand01_R_01
+    100010: bone_hand01_R_02
+    100012: bone_hand01_R_03
+    100014: bone_hand01_R_04
+    100016: bone_qunzi_c_B1_01
+    100018: bone_qunzi_c_B1_02
+    100020: bone_qunzi_c_B1_03
+    100022: bone_qunzi_c_B1_04
+    100024: bone_qunzi_c_B1_05
+    100026: bone_qunzi_c_B2_01
+    100028: bone_qunzi_c_B2_02
+    100030: bone_qunzi_c_B2_03
+    100032: bone_qunzi_c_B2_04
+    100034: bone_qunzi_c_B2_05
+    100036: bone_qunzi_c_B_01
+    100038: bone_qunzi_c_B_02
+    100040: bone_qunzi_c_B_03
+    100042: bone_qunzi_c_B_04
+    100044: bone_qunzi_c_B_05
+    100046: bone_qunzi_c_F1_01
+    100048: bone_qunzi_c_F1_02
+    100050: bone_qunzi_c_F1_03
+    100052: bone_qunzi_c_L1_01
+    100054: bone_qunzi_c_L1_02
+    100056: bone_qunzi_c_L1_03
+    100058: bone_qunzi_c_L1_04
+    100060: bone_qunzi_c_L1_05
+    100062: bone_qunzi_c_R1_01
+    100064: bone_qunzi_c_R1_02
+    100066: bone_qunzi_c_R1_03
+    100068: bone_qunzi_c_R1_04
+    100070: bone_qunzi_c_R1_05
+    100072: Chest
+    100074: Head
+    100076: Hips
+    100078: Left Arm
+    100080: Left ForeArm
+    100082: Left Hand
+    100084: Left Shoulder
+    100086: //RootNode
+    100088: Neck
+    100090: nwsg_body
+    100092: nwsg_suit
+    100094: Right Arm
+    100096: Right ForeArm
+    100098: Right Hand
+    100100: Right Shoulder
+    100102: Spine
+    100104: bone_qunzi_c_F1_04
+    100106: bone_qunzi_c_F1_05
+    100108: miku_body002
+    400000: bone_hand01_L_01
+    400002: bone_hand01_L_02
+    400004: bone_hand01_L_03
+    400006: bone_hand01_L_04
+    400008: bone_hand01_R_01
+    400010: bone_hand01_R_02
+    400012: bone_hand01_R_03
+    400014: bone_hand01_R_04
+    400016: bone_qunzi_c_B1_01
+    400018: bone_qunzi_c_B1_02
+    400020: bone_qunzi_c_B1_03
+    400022: bone_qunzi_c_B1_04
+    400024: bone_qunzi_c_B1_05
+    400026: bone_qunzi_c_B2_01
+    400028: bone_qunzi_c_B2_02
+    400030: bone_qunzi_c_B2_03
+    400032: bone_qunzi_c_B2_04
+    400034: bone_qunzi_c_B2_05
+    400036: bone_qunzi_c_B_01
+    400038: bone_qunzi_c_B_02
+    400040: bone_qunzi_c_B_03
+    400042: bone_qunzi_c_B_04
+    400044: bone_qunzi_c_B_05
+    400046: bone_qunzi_c_F1_01
+    400048: bone_qunzi_c_F1_02
+    400050: bone_qunzi_c_F1_03
+    400052: bone_qunzi_c_L1_01
+    400054: bone_qunzi_c_L1_02
+    400056: bone_qunzi_c_L1_03
+    400058: bone_qunzi_c_L1_04
+    400060: bone_qunzi_c_L1_05
+    400062: bone_qunzi_c_R1_01
+    400064: bone_qunzi_c_R1_02
+    400066: bone_qunzi_c_R1_03
+    400068: bone_qunzi_c_R1_04
+    400070: bone_qunzi_c_R1_05
+    400072: Chest
+    400074: Head
+    400076: Hips
+    400078: Left Arm
+    400080: Left ForeArm
+    400082: Left Hand
+    400084: Left Shoulder
+    400086: //RootNode
+    400088: Neck
+    400090: nwsg_body
+    400092: nwsg_suit
+    400094: Right Arm
+    400096: Right ForeArm
+    400098: Right Hand
+    400100: Right Shoulder
+    400102: Spine
+    400104: bone_qunzi_c_F1_04
+    400106: bone_qunzi_c_F1_05
+    400108: miku_body002
+    4300000: nwsg_suit
+    4300002: nwsg_body
+    4300004: miku_body002
+    9500000: //RootNode
+    13700000: nwsg_body
+    13700002: nwsg_suit
+    13700004: miku_body002
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

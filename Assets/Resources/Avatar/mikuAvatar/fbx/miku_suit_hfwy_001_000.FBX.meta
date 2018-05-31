@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 1a7b8dacb43edbd4abcb70fec26a794b
+timeCreated: 1512024882
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bone_hair
+    100002: bone_hair01_01
+    100004: bone_hair01_02
+    100006: bone_hair01_03
+    100008: bone_hair02_01
+    100010: bone_hair02_02
+    100012: bone_hair02_03
+    100014: bone_hair03_01
+    100016: bone_hair03_02
+    100018: bone_hair03_03
+    100020: bone_hair_L_01
+    100022: bone_hair_L_02
+    100024: bone_hair_L_03
+    100026: bone_hair_L_04
+    100028: bone_hair_L_05
+    100030: bone_hair_R_01
+    100032: bone_hair_R_02
+    100034: bone_hair_R_03
+    100036: bone_hair_R_04
+    100038: bone_hair_R_05
+    100040: bone_hand01_L_01
+    100042: bone_hand01_L_02
+    100044: bone_hand01_L_03
+    100046: bone_hand01_L_04
+    100048: bone_hand01_R_01
+    100050: bone_hand01_R_02
+    100052: bone_hand01_R_03
+    100054: bone_hand01_R_04
+    100056: bone_piaodai_L1_01
+    100058: bone_piaodai_L1_02
+    100060: bone_piaodai_L1_03
+    100062: bone_piaodai_L1_04
+    100064: bone_piaodai_R1_01
+    100066: bone_piaodai_R1_02
+    100068: bone_piaodai_R1_03
+    100070: bone_piaodai_R1_04
+    100072: Chest
+    100074: Head
+    100076: hfwy_body
+    100078: hfwy_haircarry
+    100080: hfwy_shoe
+    100082: hfwy_suit001
+    100084: Hips
+    100086: Left Arm
+    100088: Left Foot
+    100090: Left ForeArm
+    100092: Left Hand
+    100094: Left HandIndex1
+    100096: Left HandIndex2
+    100098: Left HandMiddle1
+    100100: Left HandMiddle2
+    100102: Left HandRing1
+    100104: Left HandRing2
+    100106: Left HandThumb1
+    100108: Left HandThumb2
+    100110: Left Leg
+    100112: Left Shoulder
+    100114: Left Toes
+    100116: Left UpLeg
+    100118: miku_hand
+    100120: miku_leg
+    100122: //RootNode
+    100124: Neck
+    100126: Right Arm
+    100128: Right Foot
+    100130: Right ForeArm
+    100132: Right Hand
+    100134: Right HandIndex1
+    100136: Right HandIndex2
+    100138: Right HandMiddle1
+    100140: Right HandMiddle2
+    100142: Right HandRing1
+    100144: Right HandRing2
+    100146: Right HandThumb1
+    100148: Right HandThumb2
+    100150: Right Leg
+    100152: Right Shoulder
+    100154: Right Toes
+    100156: Right UpLeg
+    100158: Spine
+    100160: yz_hair
+    400000: bone_hair
+    400002: bone_hair01_01
+    400004: bone_hair01_02
+    400006: bone_hair01_03
+    400008: bone_hair02_01
+    400010: bone_hair02_02
+    400012: bone_hair02_03
+    400014: bone_hair03_01
+    400016: bone_hair03_02
+    400018: bone_hair03_03
+    400020: bone_hair_L_01
+    400022: bone_hair_L_02
+    400024: bone_hair_L_03
+    400026: bone_hair_L_04
+    400028: bone_hair_L_05
+    400030: bone_hair_R_01
+    400032: bone_hair_R_02
+    400034: bone_hair_R_03
+    400036: bone_hair_R_04
+    400038: bone_hair_R_05
+    400040: bone_hand01_L_01
+    400042: bone_hand01_L_02
+    400044: bone_hand01_L_03
+    400046: bone_hand01_L_04
+    400048: bone_hand01_R_01
+    400050: bone_hand01_R_02
+    400052: bone_hand01_R_03
+    400054: bone_hand01_R_04
+    400056: bone_piaodai_L1_01
+    400058: bone_piaodai_L1_02
+    400060: bone_piaodai_L1_03
+    400062: bone_piaodai_L1_04
+    400064: bone_piaodai_R1_01
+    400066: bone_piaodai_R1_02
+    400068: bone_piaodai_R1_03
+    400070: bone_piaodai_R1_04
+    400072: Chest
+    400074: Head
+    400076: hfwy_body
+    400078: hfwy_haircarry
+    400080: hfwy_shoe
+    400082: hfwy_suit001
+    400084: Hips
+    400086: Left Arm
+    400088: Left Foot
+    400090: Left ForeArm
+    400092: Left Hand
+    400094: Left HandIndex1
+    400096: Left HandIndex2
+    400098: Left HandMiddle1
+    400100: Left HandMiddle2
+    400102: Left HandRing1
+    400104: Left HandRing2
+    400106: Left HandThumb1
+    400108: Left HandThumb2
+    400110: Left Leg
+    400112: Left Shoulder
+    400114: Left Toes
+    400116: Left UpLeg
+    400118: miku_hand
+    400120: miku_leg
+    400122: //RootNode
+    400124: Neck
+    400126: Right Arm
+    400128: Right Foot
+    400130: Right ForeArm
+    400132: Right Hand
+    400134: Right HandIndex1
+    400136: Right HandIndex2
+    400138: Right HandMiddle1
+    400140: Right HandMiddle2
+    400142: Right HandRing1
+    400144: Right HandRing2
+    400146: Right HandThumb1
+    400148: Right HandThumb2
+    400150: Right Leg
+    400152: Right Shoulder
+    400154: Right Toes
+    400156: Right UpLeg
+    400158: Spine
+    400160: yz_hair
+    4300000: hfwy_haircarry
+    4300002: hfwy_shoe
+    4300004: hfwy_body
+    4300006: hfwy_suit001
+    4300008: miku_leg
+    4300010: miku_hand
+    4300012: yz_hair
+    9500000: //RootNode
+    13700000: hfwy_body
+    13700002: hfwy_haircarry
+    13700004: hfwy_shoe
+    13700006: hfwy_suit001
+    13700008: miku_hand
+    13700010: miku_leg
+    13700012: yz_hair
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

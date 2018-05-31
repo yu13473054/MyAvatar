@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 100438182d6ac034e9fc500d225747e8
+timeCreated: 1507797092
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bone_qunzi_B_01
+    100002: bone_qunzi_B_02
+    100004: bone_qunzi_B_03
+    100006: bone_qunzi_F_01
+    100008: bone_qunzi_F_02
+    100010: bone_qunzi_F_03
+    100012: bone_qunzi_L_01
+    100014: bone_qunzi_L_02
+    100016: bone_qunzi_L_03
+    100018: bone_qunzi_R_01
+    100020: bone_qunzi_R_02
+    100022: bone_qunzi_R_03
+    100024: bone_weiba_01
+    100026: bone_weiba_02
+    100028: bone_weiba_03
+    100030: bone_weiba_04
+    100032: Chest
+    100034: Hips
+    100036: Left Arm
+    100038: Left Foot
+    100040: Left ForeArm
+    100042: Left Hand
+    100044: Left HandIndex1
+    100046: Left HandIndex2
+    100048: Left HandMiddle1
+    100050: Left HandMiddle2
+    100052: Left HandRing1
+    100054: Left HandRing2
+    100056: Left HandThumb1
+    100058: Left HandThumb2
+    100060: Left Leg
+    100062: Left Shoulder
+    100064: Left UpLeg
+    100066: //RootNode
+    100068: Neck
+    100070: Right Arm
+    100072: Right Foot
+    100074: Right ForeArm
+    100076: Right Hand
+    100078: Right HandIndex1
+    100080: Right HandIndex2
+    100082: Right HandMiddle1
+    100084: Right HandMiddle2
+    100086: Right HandRing1
+    100088: Right HandRing2
+    100090: Right HandThumb1
+    100092: Right HandThumb2
+    100094: Right Leg
+    100096: Right Shoulder
+    100098: Right UpLeg
+    100100: Spine
+    100102: wsj_body
+    100104: wsj_chest
+    100106: wsj_hand
+    100108: wsj_shoe
+    100110: wsj_sock
+    100112: wsj_waist
+    400000: bone_qunzi_B_01
+    400002: bone_qunzi_B_02
+    400004: bone_qunzi_B_03
+    400006: bone_qunzi_F_01
+    400008: bone_qunzi_F_02
+    400010: bone_qunzi_F_03
+    400012: bone_qunzi_L_01
+    400014: bone_qunzi_L_02
+    400016: bone_qunzi_L_03
+    400018: bone_qunzi_R_01
+    400020: bone_qunzi_R_02
+    400022: bone_qunzi_R_03
+    400024: bone_weiba_01
+    400026: bone_weiba_02
+    400028: bone_weiba_03
+    400030: bone_weiba_04
+    400032: Chest
+    400034: Hips
+    400036: Left Arm
+    400038: Left Foot
+    400040: Left ForeArm
+    400042: Left Hand
+    400044: Left HandIndex1
+    400046: Left HandIndex2
+    400048: Left HandMiddle1
+    400050: Left HandMiddle2
+    400052: Left HandRing1
+    400054: Left HandRing2
+    400056: Left HandThumb1
+    400058: Left HandThumb2
+    400060: Left Leg
+    400062: Left Shoulder
+    400064: Left UpLeg
+    400066: //RootNode
+    400068: Neck
+    400070: Right Arm
+    400072: Right Foot
+    400074: Right ForeArm
+    400076: Right Hand
+    400078: Right HandIndex1
+    400080: Right HandIndex2
+    400082: Right HandMiddle1
+    400084: Right HandMiddle2
+    400086: Right HandRing1
+    400088: Right HandRing2
+    400090: Right HandThumb1
+    400092: Right HandThumb2
+    400094: Right Leg
+    400096: Right Shoulder
+    400098: Right UpLeg
+    400100: Spine
+    400102: wsj_body
+    400104: wsj_chest
+    400106: wsj_hand
+    400108: wsj_shoe
+    400110: wsj_sock
+    400112: wsj_waist
+    4300000: wsj_body
+    4300002: wsj_waist
+    4300004: wsj_chest
+    4300006: wsj_shoe
+    4300008: wsj_hand
+    4300010: wsj_sock
+    9500000: //RootNode
+    13700000: wsj_body
+    13700002: wsj_chest
+    13700004: wsj_hand
+    13700006: wsj_shoe
+    13700008: wsj_sock
+    13700010: wsj_waist
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

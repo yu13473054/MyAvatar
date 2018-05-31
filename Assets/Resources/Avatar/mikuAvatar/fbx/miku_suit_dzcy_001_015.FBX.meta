@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 969b091c793f57d48a0bfb21898a5d56
+timeCreated: 1511169108
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bone_qunzi_B_01
+    100002: bone_qunzi_B_02
+    100004: bone_qunzi_B_03
+    100006: bone_qunzi_F_01
+    100008: bone_qunzi_F_02
+    100010: bone_qunzi_F_03
+    100012: bone_qunzi_L_01
+    100014: bone_qunzi_L_02
+    100016: bone_qunzi_L_03
+    100018: bone_qunzi_R_01
+    100020: bone_qunzi_R_02
+    100022: bone_qunzi_R_03
+    100024: Chest
+    100026: dzcy_body_001_025
+    100028: dzcy_chest_001_015
+    100030: dzcy_waist
+    100032: Hips
+    100034: Left Arm
+    100036: Left ForeArm
+    100038: Left Hand
+    100040: Left Shoulder
+    100042: //RootNode
+    100044: Neck
+    100046: Right Arm
+    100048: Right ForeArm
+    100050: Right Hand
+    100052: Right Shoulder
+    100054: Spine
+    400000: bone_qunzi_B_01
+    400002: bone_qunzi_B_02
+    400004: bone_qunzi_B_03
+    400006: bone_qunzi_F_01
+    400008: bone_qunzi_F_02
+    400010: bone_qunzi_F_03
+    400012: bone_qunzi_L_01
+    400014: bone_qunzi_L_02
+    400016: bone_qunzi_L_03
+    400018: bone_qunzi_R_01
+    400020: bone_qunzi_R_02
+    400022: bone_qunzi_R_03
+    400024: Chest
+    400026: dzcy_body_001_025
+    400028: dzcy_chest_001_015
+    400030: dzcy_waist
+    400032: Hips
+    400034: Left Arm
+    400036: Left ForeArm
+    400038: Left Hand
+    400040: Left Shoulder
+    400042: //RootNode
+    400044: Neck
+    400046: Right Arm
+    400048: Right ForeArm
+    400050: Right Hand
+    400052: Right Shoulder
+    400054: Spine
+    4300000: dzcy_waist
+    4300002: dzcy_body_001_025
+    4300004: dzcy_chest_001_015
+    9500000: //RootNode
+    13700000: dzcy_body_001_025
+    13700002: dzcy_chest_001_015
+    13700004: dzcy_waist
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

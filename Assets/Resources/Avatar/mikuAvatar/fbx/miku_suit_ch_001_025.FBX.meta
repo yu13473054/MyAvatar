@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 6308599407e32b241b3a61ec7b20b3cb
+timeCreated: 1511432692
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bone_qunzi_B_01
+    100002: bone_qunzi_B_02
+    100004: bone_qunzi_B_03
+    100006: bone_qunzi_F_01
+    100008: bone_qunzi_F_02
+    100010: bone_qunzi_F_03
+    100012: bone_qunzi_L_01
+    100014: bone_qunzi_L_02
+    100016: bone_qunzi_L_03
+    100018: bone_qunzi_R_01
+    100020: bone_qunzi_R_02
+    100022: bone_qunzi_R_03
+    100024: ch_body
+    100026: ch_chest
+    100028: ch_shoe
+    100030: ch_sock
+    100032: Chest
+    100034: Hips
+    100036: Left Arm
+    100038: Left Foot
+    100040: Left ForeArm
+    100042: Left Hand
+    100044: Left Leg
+    100046: Left Shoulder
+    100048: Left UpLeg
+    100050: miku_leg002
+    100052: //RootNode
+    100054: Neck
+    100056: Right Arm
+    100058: Right Foot
+    100060: Right ForeArm
+    100062: Right Hand
+    100064: Right Leg
+    100066: Right Shoulder
+    100068: Right UpLeg
+    100070: Spine
+    400000: bone_qunzi_B_01
+    400002: bone_qunzi_B_02
+    400004: bone_qunzi_B_03
+    400006: bone_qunzi_F_01
+    400008: bone_qunzi_F_02
+    400010: bone_qunzi_F_03
+    400012: bone_qunzi_L_01
+    400014: bone_qunzi_L_02
+    400016: bone_qunzi_L_03
+    400018: bone_qunzi_R_01
+    400020: bone_qunzi_R_02
+    400022: bone_qunzi_R_03
+    400024: ch_body
+    400026: ch_chest
+    400028: ch_shoe
+    400030: ch_sock
+    400032: Chest
+    400034: Hips
+    400036: Left Arm
+    400038: Left Foot
+    400040: Left ForeArm
+    400042: Left Hand
+    400044: Left Leg
+    400046: Left Shoulder
+    400048: Left UpLeg
+    400050: miku_leg002
+    400052: //RootNode
+    400054: Neck
+    400056: Right Arm
+    400058: Right Foot
+    400060: Right ForeArm
+    400062: Right Hand
+    400064: Right Leg
+    400066: Right Shoulder
+    400068: Right UpLeg
+    400070: Spine
+    4300000: ch_chest
+    4300002: ch_shoe
+    4300004: ch_body
+    4300006: ch_sock
+    4300008: miku_leg002
+    9500000: //RootNode
+    13700000: ch_body
+    13700002: ch_chest
+    13700004: ch_shoe
+    13700006: ch_sock
+    13700008: miku_leg002
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

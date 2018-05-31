@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: b9b5624e814e6c3439125fcd4f64c00b
+timeCreated: 1498620072
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone_hair_R_01
+    100002: bone_hair_R_02
+    100004: bone_hair_R_03
+    100006: bone_hair_R_04
+    100008: Chest
+    100010: Head
+    100012: Hips
+    100014: //RootNode
+    100016: Neck
+    100018: Spine
+    100020: xrc_hair001
+    100022: bone_hair
+    100024: bone_hair01_01
+    100026: bone_hair01_02
+    100028: bone_hair01_03
+    100030: bone_hair02_01
+    100032: bone_hair02_02
+    100034: bone_hair02_03
+    100036: bone_hair03_01
+    100038: bone_hair03_02
+    100040: bone_hair03_03
+    100042: bone_hair_L_01
+    100044: bone_hair_L_02
+    100046: bone_hair_L_03
+    100048: bone_hair_L_04
+    400000: bone_hair_R_01
+    400002: bone_hair_R_02
+    400004: bone_hair_R_03
+    400006: bone_hair_R_04
+    400008: Chest
+    400010: Head
+    400012: Hips
+    400014: //RootNode
+    400016: Neck
+    400018: Spine
+    400020: xrc_hair001
+    400022: bone_hair
+    400024: bone_hair01_01
+    400026: bone_hair01_02
+    400028: bone_hair01_03
+    400030: bone_hair02_01
+    400032: bone_hair02_02
+    400034: bone_hair02_03
+    400036: bone_hair03_01
+    400038: bone_hair03_02
+    400040: bone_hair03_03
+    400042: bone_hair_L_01
+    400044: bone_hair_L_02
+    400046: bone_hair_L_03
+    400048: bone_hair_L_04
+    4300000: xrc_hair001
+    9500000: //RootNode
+    13700000: xrc_hair001
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

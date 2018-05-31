@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 807a1af9276b65e468b04fa10fdedc9a
+timeCreated: 1511606305
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: backcarry
+    100002: bone_qunzi_B_01
+    100004: bone_qunzi_B_02
+    100006: bone_qunzi_B_03
+    100008: bone_qunzi_c_B2_01
+    100010: bone_qunzi_c_B2_02
+    100012: bone_qunzi_c_B2_03
+    100014: bone_qunzi_c_B2_04
+    100016: bone_qunzi_c_B2_05
+    100018: bone_qunzi_c_B_01
+    100020: bone_qunzi_c_B_02
+    100022: bone_qunzi_c_B_03
+    100024: bone_qunzi_c_B_04
+    100026: bone_qunzi_c_B_05
+    100028: bone_qunzi_F_01
+    100030: bone_qunzi_F_02
+    100032: bone_qunzi_F_03
+    100034: bone_qunzi_L_01
+    100036: bone_qunzi_L_02
+    100038: bone_qunzi_L_03
+    100040: bone_qunzi_R_01
+    100042: bone_qunzi_R_02
+    100044: bone_qunzi_R_03
+    100046: Chest
+    100048: gzcy_suit
+    100050: Hips
+    100052: Left Arm
+    100054: Left ForeArm
+    100056: Left Hand
+    100058: Left Shoulder
+    100060: miku_body_015
+    100062: //RootNode
+    100064: Neck
+    100066: Right Arm
+    100068: Right ForeArm
+    100070: Right Hand
+    100072: Right Shoulder
+    100074: Spine
+    400000: backcarry
+    400002: bone_qunzi_B_01
+    400004: bone_qunzi_B_02
+    400006: bone_qunzi_B_03
+    400008: bone_qunzi_c_B2_01
+    400010: bone_qunzi_c_B2_02
+    400012: bone_qunzi_c_B2_03
+    400014: bone_qunzi_c_B2_04
+    400016: bone_qunzi_c_B2_05
+    400018: bone_qunzi_c_B_01
+    400020: bone_qunzi_c_B_02
+    400022: bone_qunzi_c_B_03
+    400024: bone_qunzi_c_B_04
+    400026: bone_qunzi_c_B_05
+    400028: bone_qunzi_F_01
+    400030: bone_qunzi_F_02
+    400032: bone_qunzi_F_03
+    400034: bone_qunzi_L_01
+    400036: bone_qunzi_L_02
+    400038: bone_qunzi_L_03
+    400040: bone_qunzi_R_01
+    400042: bone_qunzi_R_02
+    400044: bone_qunzi_R_03
+    400046: Chest
+    400048: gzcy_suit
+    400050: Hips
+    400052: Left Arm
+    400054: Left ForeArm
+    400056: Left Hand
+    400058: Left Shoulder
+    400060: miku_body_015
+    400062: //RootNode
+    400064: Neck
+    400066: Right Arm
+    400068: Right ForeArm
+    400070: Right Hand
+    400072: Right Shoulder
+    400074: Spine
+    4300000: backcarry
+    4300002: gzcy_suit
+    4300004: miku_body_015
+    9500000: //RootNode
+    13700000: backcarry
+    13700002: gzcy_suit
+    13700004: miku_body_015
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

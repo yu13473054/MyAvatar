@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 8ce60f45abc0627448d9a4ebdce89731
+timeCreated: 1496311725
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bone_qunzi_B_01
+    100002: bone_qunzi_B_02
+    100004: bone_qunzi_B_03
+    100006: bone_qunzi_F_01
+    100008: bone_qunzi_F_02
+    100010: bone_qunzi_F_03
+    100012: bone_qunzi_L_01
+    100014: bone_qunzi_L_02
+    100016: bone_qunzi_L_03
+    100018: bone_qunzi_R_01
+    100020: bone_qunzi_R_02
+    100022: bone_qunzi_R_03
+    100024: Chest
+    100026: Head
+    100028: Hips
+    100030: Left Arm
+    100032: Left Foot
+    100034: Left ForeArm
+    100036: Left Hand
+    100038: Left HandIndex1
+    100040: Left HandIndex2
+    100042: Left HandMiddle1
+    100044: Left HandMiddle2
+    100046: Left HandRing1
+    100048: Left HandRing2
+    100050: Left HandThumb1
+    100052: Left HandThumb2
+    100054: Left Leg
+    100056: Left Shoulder
+    100058: Left Toes
+    100060: Left UpLeg
+    100062: //RootNode
+    100064: Neck
+    100066: Right Arm
+    100068: Right Foot
+    100070: Right ForeArm
+    100072: Right Hand
+    100074: Right HandIndex1
+    100076: Right HandIndex2
+    100078: Right HandMiddle1
+    100080: Right HandMiddle2
+    100082: Right HandRing1
+    100084: Right HandRing2
+    100086: Right HandThumb1
+    100088: Right HandThumb2
+    100090: Right Leg
+    100092: Right Shoulder
+    100094: Right Toes
+    100096: Right UpLeg
+    100098: Spine
+    100100: wymy_body_001_015
+    100102: wymy_suit
+    100104: bone_piaodai_L1_01
+    100106: bone_piaodai_L1_02
+    100108: bone_piaodai_L1_03
+    100110: bone_piaodai_L1_04
+    100112: bone_piaodai_R1_01
+    100114: bone_piaodai_R1_02
+    100116: bone_piaodai_R1_03
+    100118: bone_piaodai_R1_04
+    100120: wymy_handcarry
+    400000: bone_qunzi_B_01
+    400002: bone_qunzi_B_02
+    400004: bone_qunzi_B_03
+    400006: bone_qunzi_F_01
+    400008: bone_qunzi_F_02
+    400010: bone_qunzi_F_03
+    400012: bone_qunzi_L_01
+    400014: bone_qunzi_L_02
+    400016: bone_qunzi_L_03
+    400018: bone_qunzi_R_01
+    400020: bone_qunzi_R_02
+    400022: bone_qunzi_R_03
+    400024: Chest
+    400026: Head
+    400028: Hips
+    400030: Left Arm
+    400032: Left Foot
+    400034: Left ForeArm
+    400036: Left Hand
+    400038: Left HandIndex1
+    400040: Left HandIndex2
+    400042: Left HandMiddle1
+    400044: Left HandMiddle2
+    400046: Left HandRing1
+    400048: Left HandRing2
+    400050: Left HandThumb1
+    400052: Left HandThumb2
+    400054: Left Leg
+    400056: Left Shoulder
+    400058: Left Toes
+    400060: Left UpLeg
+    400062: //RootNode
+    400064: Neck
+    400066: Right Arm
+    400068: Right Foot
+    400070: Right ForeArm
+    400072: Right Hand
+    400074: Right HandIndex1
+    400076: Right HandIndex2
+    400078: Right HandMiddle1
+    400080: Right HandMiddle2
+    400082: Right HandRing1
+    400084: Right HandRing2
+    400086: Right HandThumb1
+    400088: Right HandThumb2
+    400090: Right Leg
+    400092: Right Shoulder
+    400094: Right Toes
+    400096: Right UpLeg
+    400098: Spine
+    400100: wymy_body_001_015
+    400102: wymy_suit
+    400104: bone_piaodai_L1_01
+    400106: bone_piaodai_L1_02
+    400108: bone_piaodai_L1_03
+    400110: bone_piaodai_L1_04
+    400112: bone_piaodai_R1_01
+    400114: bone_piaodai_R1_02
+    400116: bone_piaodai_R1_03
+    400118: bone_piaodai_R1_04
+    400120: wymy_handcarry
+    4300000: wymy_suit
+    4300002: wymy_body_001_015
+    4300004: wymy_handcarry
+    9500000: //RootNode
+    13700000: wymy_body_001_015
+    13700002: wymy_suit
+    13700004: wymy_handcarry
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

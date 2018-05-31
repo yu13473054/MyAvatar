@@ -1,0 +1,737 @@
+fileFormatVersion: 2
+guid: d7a15c394889923428a1ff40e300e5c2
+timeCreated: 1494474580
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bone_hair
+    100002: bone_hair01_01
+    100004: bone_hair01_02
+    100006: bone_hair01_03
+    100008: bone_hair02_01
+    100010: bone_hair02_02
+    100012: bone_hair02_03
+    100014: bone_hair03_01
+    100016: bone_hair03_02
+    100018: bone_hair03_03
+    100020: bone_hair_L2_01
+    100022: bone_hair_L2_02
+    100024: bone_hair_L2_03
+    100026: bone_hair_L2_04
+    100028: bone_hair_L2_05
+    100030: bone_hair_L_01
+    100032: bone_hair_L_02
+    100034: bone_hair_L_03
+    100036: bone_hair_L_04
+    100038: bone_hair_L_05
+    100040: bone_hair_R2_01
+    100042: bone_hair_R2_02
+    100044: bone_hair_R2_03
+    100046: bone_hair_R2_04
+    100048: bone_hair_R2_05
+    100050: bone_hair_R_01
+    100052: bone_hair_R_02
+    100054: bone_hair_R_03
+    100056: bone_hair_R_04
+    100058: bone_hair_R_05
+    100060: bone_hand01_L_01
+    100062: bone_hand01_L_02
+    100064: bone_hand01_L_03
+    100066: bone_hand01_L_04
+    100068: bone_hand01_R_01
+    100070: bone_hand01_R_02
+    100072: bone_hand01_R_03
+    100074: bone_hand01_R_04
+    100076: bone_piaodai_L1_01
+    100078: bone_piaodai_L1_02
+    100080: bone_piaodai_L1_03
+    100082: bone_piaodai_L1_04
+    100084: bone_piaodai_L2_01
+    100086: bone_piaodai_L2_02
+    100088: bone_piaodai_L2_03
+    100090: bone_piaodai_L2_04
+    100092: bone_piaodai_L2_05
+    100094: bone_piaodai_R1_01
+    100096: bone_piaodai_R1_02
+    100098: bone_piaodai_R1_03
+    100100: bone_piaodai_R1_04
+    100102: bone_piaodai_R2_01
+    100104: bone_piaodai_R2_02
+    100106: bone_piaodai_R2_03
+    100108: bone_piaodai_R2_04
+    100110: bone_piaodai_R2_05
+    100112: bone_qunzi_B_01
+    100114: bone_qunzi_B_02
+    100116: bone_qunzi_B_03
+    100118: bone_qunzi_c_B1_01
+    100120: bone_qunzi_c_B1_02
+    100122: bone_qunzi_c_B1_03
+    100124: bone_qunzi_c_B1_04
+    100126: bone_qunzi_c_B1_05
+    100128: bone_qunzi_c_B2_01
+    100130: bone_qunzi_c_B2_02
+    100132: bone_qunzi_c_B2_03
+    100134: bone_qunzi_c_B2_04
+    100136: bone_qunzi_c_B2_05
+    100138: bone_qunzi_c_B_01
+    100140: bone_qunzi_c_B_02
+    100142: bone_qunzi_c_B_03
+    100144: bone_qunzi_c_B_04
+    100146: bone_qunzi_c_B_05
+    100148: bone_qunzi_c_F1_01
+    100150: bone_qunzi_c_F1_02
+    100152: bone_qunzi_c_F1_03
+    100154: bone_qunzi_c_F1_04
+    100156: bone_qunzi_c_F1_05
+    100158: bone_qunzi_c_L1_01
+    100160: bone_qunzi_c_L1_02
+    100162: bone_qunzi_c_L1_03
+    100164: bone_qunzi_c_L1_04
+    100166: bone_qunzi_c_L1_05
+    100168: bone_qunzi_c_R1_01
+    100170: bone_qunzi_c_R1_02
+    100172: bone_qunzi_c_R1_03
+    100174: bone_qunzi_c_R1_04
+    100176: bone_qunzi_c_R1_05
+    100178: bone_qunzi_F_01
+    100180: bone_qunzi_F_02
+    100182: bone_qunzi_F_03
+    100184: bone_qunzi_L_01
+    100186: bone_qunzi_L_02
+    100188: bone_qunzi_L_03
+    100190: bone_qunzi_R_01
+    100192: bone_qunzi_R_02
+    100194: bone_qunzi_R_03
+    100196: bone_toushi_01
+    100198: bone_toushi_02
+    100200: bone_toushi_03
+    100202: bone_tuer_L_01
+    100204: bone_tuer_L_02
+    100206: bone_tuer_L_03
+    100208: bone_tuer_L_04
+    100210: bone_tuer_R_01
+    100212: bone_tuer_R_02
+    100214: bone_tuer_R_03
+    100216: bone_tuer_R_04
+    100218: bone_weiba_01
+    100220: bone_weiba_02
+    100222: bone_weiba_03
+    100224: bone_weiba_04
+    100226: Chest
+    100228: Head
+    100230: Hips
+    100232: Left Arm
+    100234: Left Foot
+    100236: Left ForeArm
+    100238: Left Hand
+    100240: Left HandIndex1
+    100242: Left HandIndex2
+    100244: Left HandMiddle1
+    100246: Left HandMiddle2
+    100248: Left HandRing1
+    100250: Left HandRing2
+    100252: Left HandThumb1
+    100254: Left HandThumb2
+    100256: Left Leg
+    100258: Left Shoulder
+    100260: Left Toes
+    100262: Left UpLeg
+    100264: //RootNode
+    100266: Neck
+    100268: Right Arm
+    100270: Right Foot
+    100272: Right ForeArm
+    100274: Right Hand
+    100276: Right HandIndex1
+    100278: Right HandIndex2
+    100280: Right HandMiddle1
+    100282: Right HandMiddle2
+    100284: Right HandRing1
+    100286: Right HandRing2
+    100288: Right HandThumb1
+    100290: Right HandThumb2
+    100292: Right Leg
+    100294: Right Shoulder
+    100296: Right Toes
+    100298: Right UpLeg
+    100300: Spine
+    400000: bone_hair
+    400002: bone_hair01_01
+    400004: bone_hair01_02
+    400006: bone_hair01_03
+    400008: bone_hair02_01
+    400010: bone_hair02_02
+    400012: bone_hair02_03
+    400014: bone_hair03_01
+    400016: bone_hair03_02
+    400018: bone_hair03_03
+    400020: bone_hair_L2_01
+    400022: bone_hair_L2_02
+    400024: bone_hair_L2_03
+    400026: bone_hair_L2_04
+    400028: bone_hair_L2_05
+    400030: bone_hair_L_01
+    400032: bone_hair_L_02
+    400034: bone_hair_L_03
+    400036: bone_hair_L_04
+    400038: bone_hair_L_05
+    400040: bone_hair_R2_01
+    400042: bone_hair_R2_02
+    400044: bone_hair_R2_03
+    400046: bone_hair_R2_04
+    400048: bone_hair_R2_05
+    400050: bone_hair_R_01
+    400052: bone_hair_R_02
+    400054: bone_hair_R_03
+    400056: bone_hair_R_04
+    400058: bone_hair_R_05
+    400060: bone_hand01_L_01
+    400062: bone_hand01_L_02
+    400064: bone_hand01_L_03
+    400066: bone_hand01_L_04
+    400068: bone_hand01_R_01
+    400070: bone_hand01_R_02
+    400072: bone_hand01_R_03
+    400074: bone_hand01_R_04
+    400076: bone_piaodai_L1_01
+    400078: bone_piaodai_L1_02
+    400080: bone_piaodai_L1_03
+    400082: bone_piaodai_L1_04
+    400084: bone_piaodai_L2_01
+    400086: bone_piaodai_L2_02
+    400088: bone_piaodai_L2_03
+    400090: bone_piaodai_L2_04
+    400092: bone_piaodai_L2_05
+    400094: bone_piaodai_R1_01
+    400096: bone_piaodai_R1_02
+    400098: bone_piaodai_R1_03
+    400100: bone_piaodai_R1_04
+    400102: bone_piaodai_R2_01
+    400104: bone_piaodai_R2_02
+    400106: bone_piaodai_R2_03
+    400108: bone_piaodai_R2_04
+    400110: bone_piaodai_R2_05
+    400112: bone_qunzi_B_01
+    400114: bone_qunzi_B_02
+    400116: bone_qunzi_B_03
+    400118: bone_qunzi_c_B1_01
+    400120: bone_qunzi_c_B1_02
+    400122: bone_qunzi_c_B1_03
+    400124: bone_qunzi_c_B1_04
+    400126: bone_qunzi_c_B1_05
+    400128: bone_qunzi_c_B2_01
+    400130: bone_qunzi_c_B2_02
+    400132: bone_qunzi_c_B2_03
+    400134: bone_qunzi_c_B2_04
+    400136: bone_qunzi_c_B2_05
+    400138: bone_qunzi_c_B_01
+    400140: bone_qunzi_c_B_02
+    400142: bone_qunzi_c_B_03
+    400144: bone_qunzi_c_B_04
+    400146: bone_qunzi_c_B_05
+    400148: bone_qunzi_c_F1_01
+    400150: bone_qunzi_c_F1_02
+    400152: bone_qunzi_c_F1_03
+    400154: bone_qunzi_c_F1_04
+    400156: bone_qunzi_c_F1_05
+    400158: bone_qunzi_c_L1_01
+    400160: bone_qunzi_c_L1_02
+    400162: bone_qunzi_c_L1_03
+    400164: bone_qunzi_c_L1_04
+    400166: bone_qunzi_c_L1_05
+    400168: bone_qunzi_c_R1_01
+    400170: bone_qunzi_c_R1_02
+    400172: bone_qunzi_c_R1_03
+    400174: bone_qunzi_c_R1_04
+    400176: bone_qunzi_c_R1_05
+    400178: bone_qunzi_F_01
+    400180: bone_qunzi_F_02
+    400182: bone_qunzi_F_03
+    400184: bone_qunzi_L_01
+    400186: bone_qunzi_L_02
+    400188: bone_qunzi_L_03
+    400190: bone_qunzi_R_01
+    400192: bone_qunzi_R_02
+    400194: bone_qunzi_R_03
+    400196: bone_toushi_01
+    400198: bone_toushi_02
+    400200: bone_toushi_03
+    400202: bone_tuer_L_01
+    400204: bone_tuer_L_02
+    400206: bone_tuer_L_03
+    400208: bone_tuer_L_04
+    400210: bone_tuer_R_01
+    400212: bone_tuer_R_02
+    400214: bone_tuer_R_03
+    400216: bone_tuer_R_04
+    400218: bone_weiba_01
+    400220: bone_weiba_02
+    400222: bone_weiba_03
+    400224: bone_weiba_04
+    400226: Chest
+    400228: Head
+    400230: Hips
+    400232: Left Arm
+    400234: Left Foot
+    400236: Left ForeArm
+    400238: Left Hand
+    400240: Left HandIndex1
+    400242: Left HandIndex2
+    400244: Left HandMiddle1
+    400246: Left HandMiddle2
+    400248: Left HandRing1
+    400250: Left HandRing2
+    400252: Left HandThumb1
+    400254: Left HandThumb2
+    400256: Left Leg
+    400258: Left Shoulder
+    400260: Left Toes
+    400262: Left UpLeg
+    400264: //RootNode
+    400266: Neck
+    400268: Right Arm
+    400270: Right Foot
+    400272: Right ForeArm
+    400274: Right Hand
+    400276: Right HandIndex1
+    400278: Right HandIndex2
+    400280: Right HandMiddle1
+    400282: Right HandMiddle2
+    400284: Right HandRing1
+    400286: Right HandRing2
+    400288: Right HandThumb1
+    400290: Right HandThumb2
+    400292: Right Leg
+    400294: Right Shoulder
+    400296: Right Toes
+    400298: Right UpLeg
+    400300: Spine
+    7400000: Battle_leftrideloop_hold_2
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Battle_leftrideloop_hold_2
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/bone_qunzi_B_01
+        weight: 1
+      - path: Hips/bone_qunzi_B_01/bone_qunzi_B_02
+        weight: 1
+      - path: Hips/bone_qunzi_B_01/bone_qunzi_B_02/bone_qunzi_B_03
+        weight: 1
+      - path: Hips/bone_qunzi_c_B1_01
+        weight: 1
+      - path: Hips/bone_qunzi_c_B1_01/bone_qunzi_c_B1_02
+        weight: 1
+      - path: Hips/bone_qunzi_c_B1_01/bone_qunzi_c_B1_02/bone_qunzi_c_B1_03
+        weight: 1
+      - path: Hips/bone_qunzi_c_B1_01/bone_qunzi_c_B1_02/bone_qunzi_c_B1_03/bone_qunzi_c_B1_04
+        weight: 1
+      - path: Hips/bone_qunzi_c_B1_01/bone_qunzi_c_B1_02/bone_qunzi_c_B1_03/bone_qunzi_c_B1_04/bone_qunzi_c_B1_05
+        weight: 1
+      - path: Hips/bone_qunzi_c_B2_01
+        weight: 1
+      - path: Hips/bone_qunzi_c_B2_01/bone_qunzi_c_B2_02
+        weight: 1
+      - path: Hips/bone_qunzi_c_B2_01/bone_qunzi_c_B2_02/bone_qunzi_c_B2_03
+        weight: 1
+      - path: Hips/bone_qunzi_c_B2_01/bone_qunzi_c_B2_02/bone_qunzi_c_B2_03/bone_qunzi_c_B2_04
+        weight: 1
+      - path: Hips/bone_qunzi_c_B2_01/bone_qunzi_c_B2_02/bone_qunzi_c_B2_03/bone_qunzi_c_B2_04/bone_qunzi_c_B2_05
+        weight: 1
+      - path: Hips/bone_qunzi_c_B_01
+        weight: 1
+      - path: Hips/bone_qunzi_c_B_01/bone_qunzi_c_B_02
+        weight: 1
+      - path: Hips/bone_qunzi_c_B_01/bone_qunzi_c_B_02/bone_qunzi_c_B_03
+        weight: 1
+      - path: Hips/bone_qunzi_c_B_01/bone_qunzi_c_B_02/bone_qunzi_c_B_03/bone_qunzi_c_B_04
+        weight: 1
+      - path: Hips/bone_qunzi_c_B_01/bone_qunzi_c_B_02/bone_qunzi_c_B_03/bone_qunzi_c_B_04/bone_qunzi_c_B_05
+        weight: 1
+      - path: Hips/bone_qunzi_c_F1_01
+        weight: 1
+      - path: Hips/bone_qunzi_c_F1_01/bone_qunzi_c_F1_02
+        weight: 1
+      - path: Hips/bone_qunzi_c_F1_01/bone_qunzi_c_F1_02/bone_qunzi_c_F1_03
+        weight: 1
+      - path: Hips/bone_qunzi_c_F1_01/bone_qunzi_c_F1_02/bone_qunzi_c_F1_03/bone_qunzi_c_F1_04
+        weight: 1
+      - path: Hips/bone_qunzi_c_F1_01/bone_qunzi_c_F1_02/bone_qunzi_c_F1_03/bone_qunzi_c_F1_04/bone_qunzi_c_F1_05
+        weight: 1
+      - path: Hips/bone_qunzi_c_L1_01
+        weight: 1
+      - path: Hips/bone_qunzi_c_L1_01/bone_qunzi_c_L1_02
+        weight: 1
+      - path: Hips/bone_qunzi_c_L1_01/bone_qunzi_c_L1_02/bone_qunzi_c_L1_03
+        weight: 1
+      - path: Hips/bone_qunzi_c_L1_01/bone_qunzi_c_L1_02/bone_qunzi_c_L1_03/bone_qunzi_c_L1_04
+        weight: 1
+      - path: Hips/bone_qunzi_c_L1_01/bone_qunzi_c_L1_02/bone_qunzi_c_L1_03/bone_qunzi_c_L1_04/bone_qunzi_c_L1_05
+        weight: 1
+      - path: Hips/bone_qunzi_c_R1_01
+        weight: 1
+      - path: Hips/bone_qunzi_c_R1_01/bone_qunzi_c_R1_02
+        weight: 1
+      - path: Hips/bone_qunzi_c_R1_01/bone_qunzi_c_R1_02/bone_qunzi_c_R1_03
+        weight: 1
+      - path: Hips/bone_qunzi_c_R1_01/bone_qunzi_c_R1_02/bone_qunzi_c_R1_03/bone_qunzi_c_R1_04
+        weight: 1
+      - path: Hips/bone_qunzi_c_R1_01/bone_qunzi_c_R1_02/bone_qunzi_c_R1_03/bone_qunzi_c_R1_04/bone_qunzi_c_R1_05
+        weight: 1
+      - path: Hips/bone_qunzi_F_01
+        weight: 1
+      - path: Hips/bone_qunzi_F_01/bone_qunzi_F_02
+        weight: 1
+      - path: Hips/bone_qunzi_F_01/bone_qunzi_F_02/bone_qunzi_F_03
+        weight: 1
+      - path: Hips/bone_qunzi_L_01
+        weight: 1
+      - path: Hips/bone_qunzi_L_01/bone_qunzi_L_02
+        weight: 1
+      - path: Hips/bone_qunzi_L_01/bone_qunzi_L_02/bone_qunzi_L_03
+        weight: 1
+      - path: Hips/bone_qunzi_R_01
+        weight: 1
+      - path: Hips/bone_qunzi_R_01/bone_qunzi_R_02
+        weight: 1
+      - path: Hips/bone_qunzi_R_01/bone_qunzi_R_02/bone_qunzi_R_03
+        weight: 1
+      - path: Hips/bone_weiba_01
+        weight: 1
+      - path: Hips/bone_weiba_01/bone_weiba_02
+        weight: 1
+      - path: Hips/bone_weiba_01/bone_weiba_02/bone_weiba_03
+        weight: 1
+      - path: Hips/bone_weiba_01/bone_weiba_02/bone_weiba_03/bone_weiba_04
+        weight: 1
+      - path: Hips/Left UpLeg
+        weight: 1
+      - path: Hips/Left UpLeg/Left Leg
+        weight: 1
+      - path: Hips/Left UpLeg/Left Leg/Left Foot
+        weight: 1
+      - path: Hips/Left UpLeg/Left Leg/Left Foot/Left Toes
+        weight: 1
+      - path: Hips/Right UpLeg
+        weight: 1
+      - path: Hips/Right UpLeg/Right Leg
+        weight: 1
+      - path: Hips/Right UpLeg/Right Leg/Right Foot
+        weight: 1
+      - path: Hips/Right UpLeg/Right Leg/Right Foot/Right Toes
+        weight: 1
+      - path: Hips/Spine
+        weight: 1
+      - path: Hips/Spine/bone_piaodai_L1_01
+        weight: 1
+      - path: Hips/Spine/bone_piaodai_L1_01/bone_piaodai_L1_02
+        weight: 1
+      - path: Hips/Spine/bone_piaodai_L1_01/bone_piaodai_L1_02/bone_piaodai_L1_03
+        weight: 1
+      - path: Hips/Spine/bone_piaodai_L1_01/bone_piaodai_L1_02/bone_piaodai_L1_03/bone_piaodai_L1_04
+        weight: 1
+      - path: Hips/Spine/bone_piaodai_R1_01
+        weight: 1
+      - path: Hips/Spine/bone_piaodai_R1_01/bone_piaodai_R1_02
+        weight: 1
+      - path: Hips/Spine/bone_piaodai_R1_01/bone_piaodai_R1_02/bone_piaodai_R1_03
+        weight: 1
+      - path: Hips/Spine/bone_piaodai_R1_01/bone_piaodai_R1_02/bone_piaodai_R1_03/bone_piaodai_R1_04
+        weight: 1
+      - path: Hips/Spine/Chest
+        weight: 1
+      - path: Hips/Spine/Chest/bone_piaodai_L2_01
+        weight: 1
+      - path: Hips/Spine/Chest/bone_piaodai_L2_01/bone_piaodai_L2_02
+        weight: 1
+      - path: Hips/Spine/Chest/bone_piaodai_L2_01/bone_piaodai_L2_02/bone_piaodai_L2_03
+        weight: 1
+      - path: Hips/Spine/Chest/bone_piaodai_L2_01/bone_piaodai_L2_02/bone_piaodai_L2_03/bone_piaodai_L2_04
+        weight: 1
+      - path: Hips/Spine/Chest/bone_piaodai_L2_01/bone_piaodai_L2_02/bone_piaodai_L2_03/bone_piaodai_L2_04/bone_piaodai_L2_05
+        weight: 1
+      - path: Hips/Spine/Chest/bone_piaodai_R2_01
+        weight: 1
+      - path: Hips/Spine/Chest/bone_piaodai_R2_01/bone_piaodai_R2_02
+        weight: 1
+      - path: Hips/Spine/Chest/bone_piaodai_R2_01/bone_piaodai_R2_02/bone_piaodai_R2_03
+        weight: 1
+      - path: Hips/Spine/Chest/bone_piaodai_R2_01/bone_piaodai_R2_02/bone_piaodai_R2_03/bone_piaodai_R2_04
+        weight: 1
+      - path: Hips/Spine/Chest/bone_piaodai_R2_01/bone_piaodai_R2_02/bone_piaodai_R2_03/bone_piaodai_R2_04/bone_piaodai_R2_05
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/bone_hand01_L_01
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/bone_hand01_L_01/bone_hand01_L_02
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/bone_hand01_L_01/bone_hand01_L_02/bone_hand01_L_03
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/bone_hand01_L_01/bone_hand01_L_02/bone_hand01_L_03/bone_hand01_L_04
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/Left Hand
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/Left Hand/Left
+          HandIndex1
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/Left Hand/Left
+          HandIndex1/Left HandIndex2
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/Left Hand/Left
+          HandMiddle1
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/Left Hand/Left
+          HandMiddle1/Left HandMiddle2
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/Left Hand/Left
+          HandRing1
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/Left Hand/Left
+          HandRing1/Left HandRing2
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/Left Hand/Left
+          HandThumb1
+        weight: 1
+      - path: Hips/Spine/Chest/Left Shoulder/Left Arm/Left ForeArm/Left Hand/Left
+          HandThumb1/Left HandThumb2
+        weight: 1
+      - path: Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair01_01
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair01_01/bone_hair01_02
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair01_01/bone_hair01_02/bone_hair01_03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair02_01
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair02_01/bone_hair02_02
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair02_01/bone_hair02_02/bone_hair02_03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair03_01
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair03_01/bone_hair03_02
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair03_01/bone_hair03_02/bone_hair03_03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_L2_01
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_L2_01/bone_hair_L2_02
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_L2_01/bone_hair_L2_02/bone_hair_L2_03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_L2_01/bone_hair_L2_02/bone_hair_L2_03/bone_hair_L2_04
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_L2_01/bone_hair_L2_02/bone_hair_L2_03/bone_hair_L2_04/bone_hair_L2_05
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_L_01
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_L_01/bone_hair_L_02
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_L_01/bone_hair_L_02/bone_hair_L_03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_L_01/bone_hair_L_02/bone_hair_L_03/bone_hair_L_04
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_L_01/bone_hair_L_02/bone_hair_L_03/bone_hair_L_04/bone_hair_L_05
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_R2_01
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_R2_01/bone_hair_R2_02
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_R2_01/bone_hair_R2_02/bone_hair_R2_03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_R2_01/bone_hair_R2_02/bone_hair_R2_03/bone_hair_R2_04
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_R2_01/bone_hair_R2_02/bone_hair_R2_03/bone_hair_R2_04/bone_hair_R2_05
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_R_01
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_R_01/bone_hair_R_02
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_R_01/bone_hair_R_02/bone_hair_R_03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_R_01/bone_hair_R_02/bone_hair_R_03/bone_hair_R_04
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_hair_R_01/bone_hair_R_02/bone_hair_R_03/bone_hair_R_04/bone_hair_R_05
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_toushi_01
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_toushi_01/bone_toushi_02
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_toushi_01/bone_toushi_02/bone_toushi_03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_tuer_L_01
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_tuer_L_01/bone_tuer_L_02
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_tuer_L_01/bone_tuer_L_02/bone_tuer_L_03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_tuer_L_01/bone_tuer_L_02/bone_tuer_L_03/bone_tuer_L_04
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_tuer_R_01
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_tuer_R_01/bone_tuer_R_02
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_tuer_R_01/bone_tuer_R_02/bone_tuer_R_03
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head/bone_hair/bone_tuer_R_01/bone_tuer_R_02/bone_tuer_R_03/bone_tuer_R_04
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/bone_hand01_R_01
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/bone_hand01_R_01/bone_hand01_R_02
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/bone_hand01_R_01/bone_hand01_R_02/bone_hand01_R_03
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/bone_hand01_R_01/bone_hand01_R_02/bone_hand01_R_03/bone_hand01_R_04
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/Right Hand
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/Right Hand/Right
+          HandIndex1
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/Right Hand/Right
+          HandIndex1/Right HandIndex2
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/Right Hand/Right
+          HandMiddle1
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/Right Hand/Right
+          HandMiddle1/Right HandMiddle2
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/Right Hand/Right
+          HandRing1
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/Right Hand/Right
+          HandRing1/Right HandRing2
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/Right Hand/Right
+          HandThumb1
+        weight: 1
+      - path: Hips/Spine/Chest/Right Shoulder/Right Arm/Right ForeArm/Right Hand/Right
+          HandThumb1/Right HandThumb2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 2
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: b5efe0c405a25e1438e1e31741e4699e
+timeCreated: 1496311731
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Head
+    100004: Hips
+    100006: Left Arm
+    100008: Left Foot
+    100010: Left ForeArm
+    100012: Left Hand
+    100014: Left HandIndex1
+    100016: Left HandIndex2
+    100018: Left HandMiddle1
+    100020: Left HandMiddle2
+    100022: Left HandRing1
+    100024: Left HandRing2
+    100026: Left HandThumb1
+    100028: Left HandThumb2
+    100030: Left Leg
+    100032: Left Shoulder
+    100034: Left Toes
+    100036: Left UpLeg
+    100038: //RootNode
+    100040: Neck
+    100042: qlyx_body_001_035
+    100044: qlyx_suit
+    100046: Right Arm
+    100048: Right Foot
+    100050: Right ForeArm
+    100052: Right Hand
+    100054: Right HandIndex1
+    100056: Right HandIndex2
+    100058: Right HandMiddle1
+    100060: Right HandMiddle2
+    100062: Right HandRing1
+    100064: Right HandRing2
+    100066: Right HandThumb1
+    100068: Right HandThumb2
+    100070: Right Leg
+    100072: Right Shoulder
+    100074: Right UpLeg
+    100076: Spine
+    400000: Chest
+    400002: Head
+    400004: Hips
+    400006: Left Arm
+    400008: Left Foot
+    400010: Left ForeArm
+    400012: Left Hand
+    400014: Left HandIndex1
+    400016: Left HandIndex2
+    400018: Left HandMiddle1
+    400020: Left HandMiddle2
+    400022: Left HandRing1
+    400024: Left HandRing2
+    400026: Left HandThumb1
+    400028: Left HandThumb2
+    400030: Left Leg
+    400032: Left Shoulder
+    400034: Left Toes
+    400036: Left UpLeg
+    400038: //RootNode
+    400040: Neck
+    400042: qlyx_body_001_035
+    400044: qlyx_suit
+    400046: Right Arm
+    400048: Right Foot
+    400050: Right ForeArm
+    400052: Right Hand
+    400054: Right HandIndex1
+    400056: Right HandIndex2
+    400058: Right HandMiddle1
+    400060: Right HandMiddle2
+    400062: Right HandRing1
+    400064: Right HandRing2
+    400066: Right HandThumb1
+    400068: Right HandThumb2
+    400070: Right Leg
+    400072: Right Shoulder
+    400074: Right UpLeg
+    400076: Spine
+    4300000: qlyx_suit
+    4300002: qlyx_body_001_035
+    9500000: //RootNode
+    13700000: qlyx_body_001_035
+    13700002: qlyx_suit
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

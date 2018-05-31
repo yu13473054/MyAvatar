@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: abc748cc4507dab4382c314de9ebaa47
+timeCreated: 1496311730
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone_piaodai_L1_01
+    100002: bone_piaodai_L1_02
+    100004: bone_piaodai_L1_03
+    100006: bone_piaodai_R1_01
+    100008: bone_piaodai_R1_02
+    100010: bone_piaodai_R1_03
+    100012: bone_qunzi_B_01
+    100014: bone_qunzi_B_02
+    100016: bone_qunzi_B_03
+    100018: bone_qunzi_F_01
+    100020: bone_qunzi_F_02
+    100022: bone_qunzi_F_03
+    100024: bone_qunzi_L_01
+    100026: bone_qunzi_L_02
+    100028: bone_qunzi_R_01
+    100030: bone_qunzi_R_02
+    100032: bone_qunzi_R_03
+    100034: Chest
+    100036: Head
+    100038: Hips
+    100040: Left Arm
+    100042: Left ForeArm
+    100044: Left Hand
+    100046: Left Shoulder
+    100048: //RootNode
+    100050: mmz_body_001_035
+    100052: mmz_suit
+    100054: Neck
+    100056: Right Arm
+    100058: Right ForeArm
+    100060: Right Hand
+    100062: Right Shoulder
+    100064: Spine
+    100066: bone_piaodai_L1_04
+    100068: bone_piaodai_R1_04
+    100070: bone_qunzi_L_03
+    400000: bone_piaodai_L1_01
+    400002: bone_piaodai_L1_02
+    400004: bone_piaodai_L1_03
+    400006: bone_piaodai_R1_01
+    400008: bone_piaodai_R1_02
+    400010: bone_piaodai_R1_03
+    400012: bone_qunzi_B_01
+    400014: bone_qunzi_B_02
+    400016: bone_qunzi_B_03
+    400018: bone_qunzi_F_01
+    400020: bone_qunzi_F_02
+    400022: bone_qunzi_F_03
+    400024: bone_qunzi_L_01
+    400026: bone_qunzi_L_02
+    400028: bone_qunzi_R_01
+    400030: bone_qunzi_R_02
+    400032: bone_qunzi_R_03
+    400034: Chest
+    400036: Head
+    400038: Hips
+    400040: Left Arm
+    400042: Left ForeArm
+    400044: Left Hand
+    400046: Left Shoulder
+    400048: //RootNode
+    400050: mmz_body_001_035
+    400052: mmz_suit
+    400054: Neck
+    400056: Right Arm
+    400058: Right ForeArm
+    400060: Right Hand
+    400062: Right Shoulder
+    400064: Spine
+    400066: bone_piaodai_L1_04
+    400068: bone_piaodai_R1_04
+    400070: bone_qunzi_L_03
+    4300000: mmz_suit
+    4300002: mmz_body_001_035
+    9500000: //RootNode
+    13700000: mmz_body_001_035
+    13700002: mmz_suit
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

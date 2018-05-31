@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: f8f7e7001a742d2479ad576bc5970384
+timeCreated: 1497606816
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone_qunzi_c_B1_01
+    100002: bone_qunzi_c_B1_02
+    100004: bone_qunzi_c_B1_03
+    100006: bone_qunzi_c_B1_04
+    100008: bone_qunzi_c_B1_05
+    100010: bone_qunzi_c_B2_01
+    100012: bone_qunzi_c_B2_02
+    100014: bone_qunzi_c_B2_03
+    100016: bone_qunzi_c_B2_04
+    100018: bone_qunzi_c_B2_05
+    100020: bone_qunzi_c_B_01
+    100022: bone_qunzi_c_B_02
+    100024: bone_qunzi_c_B_03
+    100026: bone_qunzi_c_B_04
+    100028: bone_qunzi_c_B_05
+    100030: bone_qunzi_c_F1_01
+    100032: bone_qunzi_c_F1_02
+    100034: bone_qunzi_c_F1_03
+    100036: bone_qunzi_c_L1_01
+    100038: bone_qunzi_c_L1_02
+    100040: bone_qunzi_c_L1_03
+    100042: bone_qunzi_c_L1_04
+    100044: bone_qunzi_c_L1_05
+    100046: bone_qunzi_c_R1_01
+    100048: bone_qunzi_c_R1_02
+    100050: bone_qunzi_c_R1_03
+    100052: bone_qunzi_c_R1_04
+    100054: bone_qunzi_c_R1_05
+    100056: Chest
+    100058: Hips
+    100060: Left Arm
+    100062: Left ForeArm
+    100064: Left Hand
+    100066: Left Shoulder
+    100068: //RootNode
+    100070: Neck
+    100072: pk_body_001_015
+    100074: pk_suit
+    100076: Right Arm
+    100078: Right ForeArm
+    100080: Right Hand
+    100082: Right Shoulder
+    100084: Spine
+    400000: bone_qunzi_c_B1_01
+    400002: bone_qunzi_c_B1_02
+    400004: bone_qunzi_c_B1_03
+    400006: bone_qunzi_c_B1_04
+    400008: bone_qunzi_c_B1_05
+    400010: bone_qunzi_c_B2_01
+    400012: bone_qunzi_c_B2_02
+    400014: bone_qunzi_c_B2_03
+    400016: bone_qunzi_c_B2_04
+    400018: bone_qunzi_c_B2_05
+    400020: bone_qunzi_c_B_01
+    400022: bone_qunzi_c_B_02
+    400024: bone_qunzi_c_B_03
+    400026: bone_qunzi_c_B_04
+    400028: bone_qunzi_c_B_05
+    400030: bone_qunzi_c_F1_01
+    400032: bone_qunzi_c_F1_02
+    400034: bone_qunzi_c_F1_03
+    400036: bone_qunzi_c_L1_01
+    400038: bone_qunzi_c_L1_02
+    400040: bone_qunzi_c_L1_03
+    400042: bone_qunzi_c_L1_04
+    400044: bone_qunzi_c_L1_05
+    400046: bone_qunzi_c_R1_01
+    400048: bone_qunzi_c_R1_02
+    400050: bone_qunzi_c_R1_03
+    400052: bone_qunzi_c_R1_04
+    400054: bone_qunzi_c_R1_05
+    400056: Chest
+    400058: Hips
+    400060: Left Arm
+    400062: Left ForeArm
+    400064: Left Hand
+    400066: Left Shoulder
+    400068: //RootNode
+    400070: Neck
+    400072: pk_body_001_015
+    400074: pk_suit
+    400076: Right Arm
+    400078: Right ForeArm
+    400080: Right Hand
+    400082: Right Shoulder
+    400084: Spine
+    4300000: pk_suit
+    4300002: pk_body_001_015
+    9500000: //RootNode
+    13700000: pk_body_001_015
+    13700002: pk_suit
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

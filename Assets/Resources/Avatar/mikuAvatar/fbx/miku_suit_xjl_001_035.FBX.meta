@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 9857694b294fd5a43bf3d3cd8aea9f39
+timeCreated: 1496311728
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone_piaodai_L2_01
+    100002: bone_piaodai_L2_02
+    100004: bone_piaodai_L2_03
+    100006: bone_piaodai_L2_04
+    100008: bone_piaodai_L2_05
+    100010: bone_piaodai_R2_01
+    100012: bone_piaodai_R2_02
+    100014: bone_piaodai_R2_03
+    100016: bone_piaodai_R2_04
+    100018: bone_piaodai_R2_05
+    100020: bone_qunzi_B_01
+    100022: bone_qunzi_B_02
+    100024: bone_qunzi_B_03
+    100026: bone_qunzi_F_01
+    100028: bone_qunzi_F_02
+    100030: bone_qunzi_F_03
+    100032: bone_qunzi_L_01
+    100034: bone_qunzi_L_02
+    100036: bone_qunzi_L_03
+    100038: bone_qunzi_R_01
+    100040: bone_qunzi_R_02
+    100042: bone_qunzi_R_03
+    100044: Chest
+    100046: Hips
+    100048: Left Arm
+    100050: Left ForeArm
+    100052: Left Hand
+    100054: Left Shoulder
+    100056: //RootNode
+    100058: Neck
+    100060: Right Arm
+    100062: Right ForeArm
+    100064: Right Hand
+    100066: Right Shoulder
+    100068: Spine
+    100070: xjl_body_001_035
+    100072: xjl_suit
+    400000: bone_piaodai_L2_01
+    400002: bone_piaodai_L2_02
+    400004: bone_piaodai_L2_03
+    400006: bone_piaodai_L2_04
+    400008: bone_piaodai_L2_05
+    400010: bone_piaodai_R2_01
+    400012: bone_piaodai_R2_02
+    400014: bone_piaodai_R2_03
+    400016: bone_piaodai_R2_04
+    400018: bone_piaodai_R2_05
+    400020: bone_qunzi_B_01
+    400022: bone_qunzi_B_02
+    400024: bone_qunzi_B_03
+    400026: bone_qunzi_F_01
+    400028: bone_qunzi_F_02
+    400030: bone_qunzi_F_03
+    400032: bone_qunzi_L_01
+    400034: bone_qunzi_L_02
+    400036: bone_qunzi_L_03
+    400038: bone_qunzi_R_01
+    400040: bone_qunzi_R_02
+    400042: bone_qunzi_R_03
+    400044: Chest
+    400046: Hips
+    400048: Left Arm
+    400050: Left ForeArm
+    400052: Left Hand
+    400054: Left Shoulder
+    400056: //RootNode
+    400058: Neck
+    400060: Right Arm
+    400062: Right ForeArm
+    400064: Right Hand
+    400066: Right Shoulder
+    400068: Spine
+    400070: xjl_body_001_035
+    400072: xjl_suit
+    4300000: xjl_suit
+    4300002: xjl_body_001_035
+    9500000: //RootNode
+    13700000: xjl_body_001_035
+    13700002: xjl_suit
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

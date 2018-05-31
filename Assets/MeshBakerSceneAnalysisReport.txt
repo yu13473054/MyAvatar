@@ -1,0 +1,7 @@
+(Click me, if I am too big copy and paste me into a spreadsheet or text editor)
+		OBJECT NAME	LIGHTMAP INDEX	STATIC	OVERLAPPING SUBMESHES	OUT-OF-BOUNDS UVs	NUM MATS	MATERIAL	WARNINGS
+	Unlit/Texture (193 verts): 
+		Cube (2) (24 verts)	-1	False	False	False	1	[3 (UnityEngine.Material)] 	
+		Cube (1) (24 verts)	-1	False	False	False	1	[2 (UnityEngine.Material)] 	
+		Plane (121 verts)	-1	False	False	False	1	[4 (UnityEngine.Material)] 	
+		Cube (24 verts)	-1	False	False	False	1	[1 (UnityEngine.Material)] 	

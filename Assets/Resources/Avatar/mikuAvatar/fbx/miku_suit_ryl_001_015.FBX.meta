@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: f7c2d488a5955ed41abbd914ec7f98d6
+timeCreated: 1497526214
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone_qunzi_B_01
+    100002: bone_qunzi_B_02
+    100004: bone_qunzi_B_03
+    100006: bone_qunzi_c_B2_01
+    100008: bone_qunzi_c_B2_02
+    100010: bone_qunzi_c_B2_03
+    100012: bone_qunzi_c_B2_04
+    100014: bone_qunzi_c_B2_05
+    100016: bone_qunzi_c_B_01
+    100018: bone_qunzi_c_B_02
+    100020: bone_qunzi_c_B_03
+    100022: bone_qunzi_c_B_04
+    100024: bone_qunzi_c_B_05
+    100026: bone_qunzi_F_01
+    100028: bone_qunzi_F_02
+    100030: bone_qunzi_F_03
+    100032: bone_qunzi_L_01
+    100034: bone_qunzi_L_02
+    100036: bone_qunzi_L_03
+    100038: bone_qunzi_R_01
+    100040: bone_qunzi_R_02
+    100042: bone_qunzi_R_03
+    100044: Chest
+    100046: Head
+    100048: Hips
+    100050: Left Arm
+    100052: Left ForeArm
+    100054: Left Hand
+    100056: Left Shoulder
+    100058: //RootNode
+    100060: Neck
+    100062: Right Arm
+    100064: Right ForeArm
+    100066: Right Hand
+    100068: Right Shoulder
+    100070: ryl_body_001_015
+    100072: ryl_chest
+    100074: ryl_waist
+    100076: Spine
+    400000: bone_qunzi_B_01
+    400002: bone_qunzi_B_02
+    400004: bone_qunzi_B_03
+    400006: bone_qunzi_c_B2_01
+    400008: bone_qunzi_c_B2_02
+    400010: bone_qunzi_c_B2_03
+    400012: bone_qunzi_c_B2_04
+    400014: bone_qunzi_c_B2_05
+    400016: bone_qunzi_c_B_01
+    400018: bone_qunzi_c_B_02
+    400020: bone_qunzi_c_B_03
+    400022: bone_qunzi_c_B_04
+    400024: bone_qunzi_c_B_05
+    400026: bone_qunzi_F_01
+    400028: bone_qunzi_F_02
+    400030: bone_qunzi_F_03
+    400032: bone_qunzi_L_01
+    400034: bone_qunzi_L_02
+    400036: bone_qunzi_L_03
+    400038: bone_qunzi_R_01
+    400040: bone_qunzi_R_02
+    400042: bone_qunzi_R_03
+    400044: Chest
+    400046: Head
+    400048: Hips
+    400050: Left Arm
+    400052: Left ForeArm
+    400054: Left Hand
+    400056: Left Shoulder
+    400058: //RootNode
+    400060: Neck
+    400062: Right Arm
+    400064: Right ForeArm
+    400066: Right Hand
+    400068: Right Shoulder
+    400070: ryl_body_001_015
+    400072: ryl_chest
+    400074: ryl_waist
+    400076: Spine
+    4300000: ryl_waist
+    4300002: ryl_chest
+    4300004: ryl_body_001_015
+    9500000: //RootNode
+    13700000: ryl_body_001_015
+    13700002: ryl_chest
+    13700004: ryl_waist
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

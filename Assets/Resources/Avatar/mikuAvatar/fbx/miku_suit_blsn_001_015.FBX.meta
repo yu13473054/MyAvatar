@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 19be5f24593c1794fb8f6a764bb4ea31
+timeCreated: 1511432202
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: blsn_backcarry
+    100002: blsn_body_015
+    100004: blsn_leg
+    100006: blsn_shoe
+    100008: blsn_suit
+    100010: bone_qunzi_B_01
+    100012: bone_qunzi_B_02
+    100014: bone_qunzi_F_01
+    100016: bone_qunzi_F_02
+    100018: bone_qunzi_L_01
+    100020: bone_qunzi_L_02
+    100022: bone_qunzi_R_01
+    100024: bone_qunzi_R_02
+    100026: Chest
+    100028: Hips
+    100030: Left Arm
+    100032: Left Foot
+    100034: Left ForeArm
+    100036: Left Hand
+    100038: Left Leg
+    100040: Left Shoulder
+    100042: Left UpLeg
+    100044: //RootNode
+    100046: Neck
+    100048: Right Arm
+    100050: Right Foot
+    100052: Right ForeArm
+    100054: Right Hand
+    100056: Right Leg
+    100058: Right Shoulder
+    100060: Right UpLeg
+    100062: Spine
+    400000: blsn_backcarry
+    400002: blsn_body_015
+    400004: blsn_leg
+    400006: blsn_shoe
+    400008: blsn_suit
+    400010: bone_qunzi_B_01
+    400012: bone_qunzi_B_02
+    400014: bone_qunzi_F_01
+    400016: bone_qunzi_F_02
+    400018: bone_qunzi_L_01
+    400020: bone_qunzi_L_02
+    400022: bone_qunzi_R_01
+    400024: bone_qunzi_R_02
+    400026: Chest
+    400028: Hips
+    400030: Left Arm
+    400032: Left Foot
+    400034: Left ForeArm
+    400036: Left Hand
+    400038: Left Leg
+    400040: Left Shoulder
+    400042: Left UpLeg
+    400044: //RootNode
+    400046: Neck
+    400048: Right Arm
+    400050: Right Foot
+    400052: Right ForeArm
+    400054: Right Hand
+    400056: Right Leg
+    400058: Right Shoulder
+    400060: Right UpLeg
+    400062: Spine
+    4300000: blsn_suit
+    4300002: blsn_backcarry
+    4300004: blsn_shoe
+    4300006: blsn_body_015
+    4300008: blsn_leg
+    9500000: //RootNode
+    13700000: blsn_backcarry
+    13700002: blsn_body_015
+    13700004: blsn_leg
+    13700006: blsn_shoe
+    13700008: blsn_suit
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

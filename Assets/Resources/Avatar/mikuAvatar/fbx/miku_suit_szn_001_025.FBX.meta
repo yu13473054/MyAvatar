@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: d6c9325a099ce78439480b411c1080ec
+timeCreated: 1501810925
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bone_hair
+    100002: bone_hair01_01
+    100004: bone_hair01_02
+    100006: bone_hair01_03
+    100008: bone_hair02_01
+    100010: bone_hair02_02
+    100012: bone_hair02_03
+    100014: bone_hair03_01
+    100016: bone_hair03_02
+    100018: bone_hair03_03
+    100020: bone_hair_L_01
+    100022: bone_hair_L_02
+    100024: bone_hair_L_03
+    100026: bone_hair_L_04
+    100028: bone_hair_L_05
+    100030: bone_hair_R_01
+    100032: bone_hair_R_02
+    100034: bone_hair_R_03
+    100036: bone_hair_R_04
+    100038: bone_hair_R_05
+    100040: bone_qunzi_B_01
+    100042: bone_qunzi_B_02
+    100044: bone_qunzi_B_03
+    100046: bone_qunzi_c_B2_01
+    100048: bone_qunzi_c_B2_02
+    100050: bone_qunzi_c_B2_03
+    100052: bone_qunzi_c_B2_04
+    100054: bone_qunzi_c_B2_05
+    100056: bone_qunzi_c_B_01
+    100058: bone_qunzi_c_B_02
+    100060: bone_qunzi_c_B_03
+    100062: bone_qunzi_c_B_04
+    100064: bone_qunzi_c_B_05
+    100066: bone_qunzi_F_01
+    100068: bone_qunzi_F_02
+    100070: bone_qunzi_F_03
+    100072: bone_qunzi_L_01
+    100074: bone_qunzi_L_02
+    100076: bone_qunzi_L_03
+    100078: bone_qunzi_R_01
+    100080: bone_qunzi_R_02
+    100082: bone_qunzi_R_03
+    100084: Chest
+    100086: Head
+    100088: Hips
+    100090: Left Arm
+    100092: Left Foot
+    100094: Left ForeArm
+    100096: Left Hand
+    100098: Left Leg
+    100100: Left Shoulder
+    100102: Left Toes
+    100104: Left UpLeg
+    100106: //RootNode
+    100108: Neck
+    100110: Right Arm
+    100112: Right Foot
+    100114: Right ForeArm
+    100116: Right Hand
+    100118: Right Leg
+    100120: Right Shoulder
+    100122: Right Toes
+    100124: Right UpLeg
+    100126: Spine
+    100128: szn_backcarry
+    100130: szn_body
+    100132: szn_chest
+    100134: szn_hair
+    100136: szn_haircarry
+    100138: szn_leg
+    100140: szn_shoe
+    100142: szn_sock
+    100144: szn_waist
+    400000: bone_hair
+    400002: bone_hair01_01
+    400004: bone_hair01_02
+    400006: bone_hair01_03
+    400008: bone_hair02_01
+    400010: bone_hair02_02
+    400012: bone_hair02_03
+    400014: bone_hair03_01
+    400016: bone_hair03_02
+    400018: bone_hair03_03
+    400020: bone_hair_L_01
+    400022: bone_hair_L_02
+    400024: bone_hair_L_03
+    400026: bone_hair_L_04
+    400028: bone_hair_L_05
+    400030: bone_hair_R_01
+    400032: bone_hair_R_02
+    400034: bone_hair_R_03
+    400036: bone_hair_R_04
+    400038: bone_hair_R_05
+    400040: bone_qunzi_B_01
+    400042: bone_qunzi_B_02
+    400044: bone_qunzi_B_03
+    400046: bone_qunzi_c_B2_01
+    400048: bone_qunzi_c_B2_02
+    400050: bone_qunzi_c_B2_03
+    400052: bone_qunzi_c_B2_04
+    400054: bone_qunzi_c_B2_05
+    400056: bone_qunzi_c_B_01
+    400058: bone_qunzi_c_B_02
+    400060: bone_qunzi_c_B_03
+    400062: bone_qunzi_c_B_04
+    400064: bone_qunzi_c_B_05
+    400066: bone_qunzi_F_01
+    400068: bone_qunzi_F_02
+    400070: bone_qunzi_F_03
+    400072: bone_qunzi_L_01
+    400074: bone_qunzi_L_02
+    400076: bone_qunzi_L_03
+    400078: bone_qunzi_R_01
+    400080: bone_qunzi_R_02
+    400082: bone_qunzi_R_03
+    400084: Chest
+    400086: Head
+    400088: Hips
+    400090: Left Arm
+    400092: Left Foot
+    400094: Left ForeArm
+    400096: Left Hand
+    400098: Left Leg
+    400100: Left Shoulder
+    400102: Left Toes
+    400104: Left UpLeg
+    400106: //RootNode
+    400108: Neck
+    400110: Right Arm
+    400112: Right Foot
+    400114: Right ForeArm
+    400116: Right Hand
+    400118: Right Leg
+    400120: Right Shoulder
+    400122: Right Toes
+    400124: Right UpLeg
+    400126: Spine
+    400128: szn_backcarry
+    400130: szn_body
+    400132: szn_chest
+    400134: szn_hair
+    400136: szn_haircarry
+    400138: szn_leg
+    400140: szn_shoe
+    400142: szn_sock
+    400144: szn_waist
+    4300000: szn_hair
+    4300002: szn_shoe
+    4300004: szn_sock
+    4300006: szn_chest
+    4300008: szn_waist
+    4300010: szn_backcarry
+    4300012: szn_haircarry
+    4300014: szn_body
+    4300016: szn_leg
+    9500000: //RootNode
+    13700000: szn_backcarry
+    13700002: szn_body
+    13700004: szn_chest
+    13700006: szn_hair
+    13700008: szn_haircarry
+    13700010: szn_leg
+    13700012: szn_shoe
+    13700014: szn_sock
+    13700016: szn_waist
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
